@@ -1,0 +1,46 @@
+.Header {
+   text-align : left;
+   background-color: aqua;
+   margin-left: 20%;
+   float:left;
+}
+
+.img {
+float:left;
+}
+
+.p1{
+    float:left;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 20px;
+    background-color: grey;
+    color: black
+}
+
+.p2 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 200px;
+    margin-bottom:200px;
+    background-color: darkgrey;    
+}
+
+.p3 {
+    margin: 5%;
+    padding: 5%;
+    border: 1px solid orange;
+}
+
+.Header2 {
+    padding-right: 0%;
+    float: right;
+   /* background-color: darkblue;*/
+}
+
+.Header3 {
+    padding-right: 2.5%;
+    float: right;
+   /* background-color: blue;*/
+}
