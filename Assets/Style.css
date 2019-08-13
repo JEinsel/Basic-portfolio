@@ -50,6 +50,7 @@ li a {
 
 .img {
 float:left;
+margin-right: 10px;
 }
 
 .p1{
@@ -93,4 +94,18 @@ float:left;
     padding-right: 2.5%;
     float: right;
    /* background-color: blue;*/
+}
+
+.topp {
+    margin-top: 5%;
+    float:top;
+}
+
+.box {
+width: 75%;
+height: 500px;
+background-color:grey;
+position:relative;
+float:left;
+
 }
